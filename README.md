@@ -1,4 +1,13 @@
 # Movies.j
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
 1. Exploring State and Props in Class Components
 Objective: The aim of this assignment is to strengthen your understanding of state and props management in React class components. You'll also practice conditional rendering and displaying lists, crucial aspects of dynamic React applications.
 
